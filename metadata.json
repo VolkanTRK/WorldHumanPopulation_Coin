@@ -1,7 +1,7 @@
 {
   "name": "World Human Population",
   "symbol": "WHPC",
-  "description": "This Coin should represent every human being on planet Earth. For every human being there should always be exactly one Coin. The Population data is updated regulary. Based on that data, the circulating supply is being raised or lowered.",
+  "description": "This Coin should represent every human being on planet Earth. For every human being there should always be exactly one Coin. The Population data is updated regulary. Based on that data, the circulating supply is being raised or lowered. There are plans to create Use Cases for this Token and smart contracts will be implemented in the future.",
   "image": "https://raw.githubusercontent.com/VolkanTRK/WorldHumanPopulation_Coin/refs/heads/main/earth-blue-planet-globe-planet-87651.jpg",
   "decimals": 9
 }
